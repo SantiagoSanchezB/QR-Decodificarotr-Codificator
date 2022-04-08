@@ -1,7 +1,7 @@
 import qrcode
 
-data = 'Hola, la verdad hice este proyecto porque queria probar unas cosas de mi conocimiento y hacerte algo a ti, te hice un codigo QR solo para ti, Te amo chica hermosa que esta leyendo esto, y te tengo siempre en mi cabeza'
+data = 'Si todo ello era verdadero, aunque muchas cosas que haga no tenga su retribucion o una ganancia motenaria o algo siempre ganare una sinria tuya y con eso es el mayor pago que puedo tener de ti'
 
 img = qrcode.make(data)
 
-img.save('/home/santiago/Documentos/Python/QR Decodificator/IMGQR/myqrcode.png')
+img.save('/home/santiago/Documentos/Python/QR Decodificator/IMGQR/MiVida.png')
